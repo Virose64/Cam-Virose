@@ -1,0 +1,2 @@
+﻿[VSIX I] Trace log: C:\Users\Robi0751\AppData\Local\Temp\VSFeedbackIntelliCodeLogs\20190909_124626_VS.log
+[VSIX I] Version: 2.2.182.4985
