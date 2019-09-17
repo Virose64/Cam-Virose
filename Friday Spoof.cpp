@@ -16,6 +16,12 @@ int main()
     cin >> ID;
 
     cout << "Thank you! I will direct you where to go..." << endl
+
+        string LevelClearance;
+        cout << "Please enter your clearance level. Levels: 1/2/3/4" << endl
+        cin >> LevelClearance;
+
+        cout << "Acess Granted."
     system("pause");
     return 0;
 }
